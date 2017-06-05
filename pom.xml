@@ -45,7 +45,7 @@
 					<properties>
 						<property>
 							<name>testnames</name>
-							<value>AnagramCheckstyle</value>
+							<value>AnagramFindBugs</value>
 						</property>	
 					</properties>
   				</configuration>
